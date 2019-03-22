@@ -1,0 +1,15 @@
+{
+	"system": {
+		"package": {
+			"repository": {
+				"wheezy": {
+					"components": "main contrib non-free",
+					"distribution": "wheezy",
+					"password": "",
+					"url": "http://http.us.debian.org/debian",
+					"username": ""
+				}
+			}
+		}
+	}
+}
